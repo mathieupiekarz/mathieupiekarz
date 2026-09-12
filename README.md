@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi everyone 👋
 
-<!--
-**mathieupiekarz/mathieupiekarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently a student in IT Engineering at UTC (major in IAD — Artificial Intelligence and Data Science), I'm looking for a 6-month internship in **Machine Learning**, starting February 2027.
 
-Here are some ideas to get you started:
+### Skills & Interests
+- Classic Machine Learning & Deep Learning (PyTorch, TensorFlow, Scikit-learn)
+- Scientific approach in Deep Learning — Physics-Informed Neural Networks (PINN)
+- Data Engineering (Snowflake, Airflow, dbt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A few projects
+*(links coming soon, once repos are migrated)*
+
+### How to reach me
+- Email: mathieu.piekarz@gmail.com
+- LinkedIn: [mathieu-piekarz](https://www.linkedin.com/in/mathieu-piekarz-892619261)

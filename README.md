@@ -8,7 +8,7 @@ Currently a student in IT Engineering at UTC (major in IAD — Artificial Intell
 - Data Engineering (Snowflake, Airflow, dbt)
 
 ### A few projects
-*(links coming soon, once repos are migrated)*
+- **[Data Warehouse — Smart Teem](https://github.com/mathieupiekarz/Smart-Teams)** — Data Warehouse design orchestrated with Airflow, in collaboration with Smart Teem.
 
 ### How to reach me
 - Email: mathieu.piekarz@gmail.com

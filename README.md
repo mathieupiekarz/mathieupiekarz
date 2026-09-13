@@ -12,4 +12,4 @@ Currently a student in IT Engineering at UTC (major in IAD — Artificial Intell
 
 ### How to reach me
 - Email: mathieu.piekarz@gmail.com
-- LinkedIn: [mathieu-piekarz](https://www.linkedin.com/in/mathieu-piekarz-892619261)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mathieu-piekarz-892619261)

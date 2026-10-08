@@ -8,7 +8,7 @@ Currently a student in IT Engineering at UTC (major in IAD - Artificial Intellig
 - Data Engineering (Snowflake, Airflow, dbt)
 
 ### A few projects
-- **[Diffusion PINN](https://github.com/mathieupiekarz/diffusion_pinn)** : Physics-Informed Neural Network modeling Fick's diffusion laws.
+- **Physics-Informed Neural Networks** *(private repository — demo available on request)* : forward and inverse PINNs for a diffusion problem with interfaces, implemented in PyTorch and DeepXDE (two-phase Adam → L-BFGS training, zone-wise collocation, unit tests). Research project, kept private until the related work is published.
 - **[ML Studies](https://github.com/mathieupiekarz/ML_pstudents_studies)** : Supervised and unsupervised Machine Learning study on open-source data.
 - **[Data Warehouse - Smart Teem](https://github.com/mathieupiekarz/Smart-Teams)** : Data Warehouse design orchestrated with Airflow, in collaboration with Smart Teem.
 - **[Jump-In](https://github.com/mathieupiekarz/Jump-In)** : Job board web platform.
